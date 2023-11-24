@@ -1,84 +1,25 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
+title: "PUBLICATIONS"
+date: 2023-11-18T12:33:46+10:00
 weight: 1
 ---
 
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# AR
+## 2023
+### Mixed Reality Guided Root Canal Therapy
 
-Financial accounting and financial reporting are often used as synonyms.
+Fangjie Li\*| **Qingying Gao\***| Nengyu Wang| Nicholas Greene| Tianyu Song| Omid Dianat| Ehsan Azimi
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+\* Co-first author 
+> **KEYWORDS**: Mixed Reality, Root Canal Therapy, Navigation, Augmented Reality
 
-## Relevance
+Root Canal Therapy (RCT) is a widely performed procedure in dentistry, with over 25 million individuals undergoing it annually. This procedure is carried out to address inflammation or infection within the root canal system of affected teeth. However, accurately aligning CT scan information with the patient’s tooth has posed challenges, leading to errors in tool positioning and potential negative outcomes. To overcome these challenges, we have developed a mixed reality application using an Optical See-Through Head-Mounted Display (OST-HMD). Our application incorporates visual cues, an augmented mirror, and dynamically updated multi-view CT slices to address depth perception issues and achieve accurate tooth localization, comprehensive canal exploration, and prevention of perforation during RCT. Through our preliminary experimental assessment, we have observed significant improvements in the accuracy of the
+procedure. Specifically, with our system the accuracy in position was improved from 1.4mm to .4mm (more than a 70% gain) using an Optical Tracker (NDI) and from 2.8mm to 2.4mm using an HMD (HoloLens 2), thereby achieving submillimeter accuracy with NDI. 6 participants were enrolled in our user study. The result of our study suggests that the average displacement on the crown plane of 1.27 ± 0.83 cm, an average depth error of 0.90 ± 0.72 cm and an average angular deviation of 1.83 ± 0.83◦. Our error analysis further highlights the impact of HoloLens 2 spatial localization and head motion on the registration and calibration process. Through seamless integration of CT image information with the patient’s tooth, our mixed reality application assists dentists in achieving precise tool placement. This advancement in technology has the potential to elevate the quality of root canal procedures, ensuring better accuracy and enhancing overall treatment outcomes.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+# CV
+## 2023
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+# HCI
