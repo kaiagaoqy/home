@@ -13,7 +13,7 @@ However, even those within the same disability ‘category’ (for example, low 
 # Visual Accessibility of Spaces
 The visual accessibility of a space refers to the effectiveness with which vision can be used to travel safely and pursue intended activities in the space. Visual accessibility of a space reduces significantly for impaired vision, leading to higher risks of encountering hazardous situations, falling, and being disoriented in navigation. It is possible to improve environmental accessibility by enhancing the visibility of informative or hazardous features through cost-effective modifications of contrast, illumination, and materials. However, it is difficult for people with normal vision, even those with rehab expertise, to judge whether specific objects or features would be visible for individuals with different levels of vision impairment, or to examine the efficacy of modifications.
 
-
+![blurry image](/home/images/team/accessibility/filters.png)
 
 Now we could design bio-inspired low-vision filters to simulate what low-vision patients see, but there are still challenges to evaluating the gap between simulated images and reduced images seen by patients, due to 
   1. the limit of technology to detect and display images perceived in the brain directly.
@@ -21,7 +21,16 @@ Now we could design bio-inspired low-vision filters to simulate what low-vision 
   3. the black-box property of deep learning models makes it hard to explain both the model itself and to evaluate the output and ground truth(mAP would not be sufficient enough to validate models' usability, we need a specific metric instead)
 
 
-We fine-tuned and tested the SOTA object-detection and semantic segmentation models on the blurry images. ()
+We fine-tuned and tested the SOTA object-detection and semantic segmentation models on the blurry real-world images. (green:YOLO v8, blue: SAM)
+![yolo](/home/images/team/accessibility/yolo.png)
+![sam](/home/images/team/accessibility/sam.png)
+
+University of Minnesota designed MNREAD Acuity Charts and acuity tests to assess how reading performance depends on print size. The MNREAD Acuity Charts are continuous text reading acuity charts for normal and low vision, but here we tested on letter acuity charts instead to simplify the experiment.
+
+![sam on chart](/home/images/team/accessibility/samChart.png)
+![segGPT](/home/images/team/accessibility/segGPT.png)
+![googlevision](/home/images/team/accessibility/googlevision.png)
+
 
 # Visual Accessibility of Smartphones
 A survey\[1\] regarding how vision-impaired patients used their smartphones interviewed 845 people with low vision or blindness in the last 6 years. There has been a 365% increase in smartphone use within the blind community in less than five years. Specifically, in the over 65 age group smartphone use has surged from 6% to 78%, which means that further focus on accessibility and useability is required. In a word, user-led research in product and service development is highly recommended by researchers.
