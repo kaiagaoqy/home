@@ -8,4 +8,4 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# News and Portfolio
+# NEWS and PORTAFOLIOS
