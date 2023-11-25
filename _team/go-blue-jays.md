@@ -1,6 +1,6 @@
 ---
 title: "GoBlueJays"
-date: 2018-11-19T10:47:58+10:00
+date: 2022-09-19T10:47:58+10:00
 jobtitle: "Human Computer Interaction"
 promoted: true
 weight: 2
@@ -8,8 +8,9 @@ weight: 2
 An all-in-one app integrates all schoollife resources
 
 > Sponsored by FastForwardU
-- Github: github.com/jhu-oose-f22/team-gobluejays 
 - Sep 2022 - Nov 2022
+- Github: github.com/jhu-oose-f22/team-gobluejays 
+
 
 ****
 
