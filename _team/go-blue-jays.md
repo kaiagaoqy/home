@@ -11,8 +11,8 @@ weight: 2
 - Implemented real-time recommendations for on-campus activities with low latency (query time<18ms).
 
 # Schedule
-![calendar](images/team/ScheduleCalendar.png)
+![calendar](/home/images/team/ScheduleCalendar.png)
 # Activity Filter
-![Filter](images/team/ActivityFilter.png)
+![Filter](/home/images/team/ActivityFilter.png)
 # Activity Collect
-![Collect](images/team/ActivityCollect.png)
+![Collect](/home/images/team/ActivityCollect.png)
