@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Qingying Gao (Kaia) 高清滢.
+# Qingying Gao (Kaia) 高清滢
 ABOUT ME:
 
 I am a second-year master student in the Department of Computer Science at the Johns Hopkins University. 
