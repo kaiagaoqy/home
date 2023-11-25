@@ -1,7 +1,7 @@
 ---
 title: "Reflections on accessibility"
 date: 2023-11-24T10:47:58+10:00
-jobtitle: "HCI"
+jobtitle: "Human Computer Interaction"
 promoted: true
 weight: 1
 ---
