@@ -1,7 +1,6 @@
 ---
 title: "Reflections on accessibility"
 date: 2023-11-24T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "HCI"
 promoted: true
 weight: 1
