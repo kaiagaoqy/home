@@ -6,13 +6,13 @@ bodyClass: "page-home"
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start">
-      <div class="col-12 col-md-9 col-lg-9 order-2 order-md-1">
+      <div class="col-12 col-md-8 col-lg-8 order-2 order-md-1">
         {{ content }}
       </div>
       {% if page.intro_image %}
-      <div class="col-12 col-md-3 col-lg-3 order-1 order-md-2 position-relative">
+      <div class="col-12 col-md-4 col-lg-4 order-1 order-md-2 position-relative">
       
-        <div style="min-height:30px;"></div>
+        <div style="min-height:20px;"></div>
         <img alt="{{ page.title }}" style="max-width: 200%; min-width:110%;bottom:10px;" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
       </div>
       {% endif %}
