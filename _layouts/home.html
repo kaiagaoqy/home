@@ -17,6 +17,11 @@ bodyClass: "page-home"
         <img alt="{{ page.title }}"  width="50px" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
       </div>
       {% endif %}
+      {% if page.show_call_box %}
+        <div class="col-12 col-md-9 col-lg-6">
+          {% include call.html show_button=true %}
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>
