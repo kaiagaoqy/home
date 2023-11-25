@@ -19,5 +19,5 @@ The  second  part  of  our  survey  examined  the  nature  of  participants  sma
 
 
 # Reference
-\[1\] Locke, Kathryn, et al. "Developing accessible technologies for a changing world: understanding how people with vision impairment use smartphones." Disability & Society 37.1 (2022): 111-128.
+\[1\] Locke, Kathryn, et al. "Developing accessible technologies for a changing world: understanding how people with vision impairment use smartphones." Disability & Society 37.1 (2022): 111-128.     
 \[2\] https://aira.io/
