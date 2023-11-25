@@ -9,9 +9,9 @@ show_call_box: true
 ---
 
 # Qingying Gao (Kaia) 高清滢
-ABOUT ME:
+**ABOUT ME:**
 
-I am a second-year master student in the Department of Computer Science at the Johns Hopkins University. 
+I am a second-year master student in the Department of Computer Science at Johns Hopkins University. 
 
 I am a member of the **Lions Vision Research & Rehab Center**, Wilmer Eye Institute and **Artificial Intelligence for Engineering and Medicine Lab**. I am advised by Prof. Yingzi Xiong and Prof. Rama Chellappa.
 
