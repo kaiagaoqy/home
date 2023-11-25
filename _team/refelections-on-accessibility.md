@@ -25,7 +25,9 @@ We fine-tuned and tested the SOTA object-detection and semantic segmentation mod
 ![yolo](/home/images/team/accessibility/yolo.png)
 ![sam](/home/images/team/accessibility/sam.png)
 
-University of Minnesota designed MNREAD Acuity Charts and acuity tests to assess how reading performance depends on print size. The MNREAD Acuity Charts are continuous text reading acuity charts for normal and low vision, but here we tested on letter acuity charts instead to simplify the experiment.
+University of Minnesota designed MNREAD Acuity Charts and acuity tests to assess how reading performance depends on print size. 
+![mnread-chart](/home/images/team/accessibility/mnreadChart.png)
+The MNREAD Acuity Charts are continuous text reading acuity charts for normal and low vision, but here we tested on letter acuity charts instead to simplify the experiment.
 
 ![sam on chart](/home/images/team/accessibility/samChart.png)
 ![segGPT](/home/images/team/accessibility/segGPT.png)
