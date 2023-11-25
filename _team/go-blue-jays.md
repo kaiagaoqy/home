@@ -5,6 +5,8 @@ jobtitle: "Human Computer Interaction"
 promoted: true
 weight: 2
 ---
+An all-in-one app integrates all schoollife resources
+
 > Sponsored by FastForwardU
 - Github: github.com/jhu-oose-f22/team-gobluejays 
 - Sep 2022 - Nov 2022
