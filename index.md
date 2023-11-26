@@ -1,5 +1,5 @@
 ---
-title: Kaia Gao (Qingying)
+title: Kaia Gao (Qingying Gao)
 layout: home
 description: A personal portfolio website for Qingying Gao(Kaia Gao) who is a graduate student in JHU and a researcher in CV and HCI
 intro_image: "images/illustrations/masterphoto.jpg"
