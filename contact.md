@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-description: Contact
+description: How to contact Qingying Gao(Kaia Gao)
 ---
 
 Feel free to contact me if you have any questions. :)
