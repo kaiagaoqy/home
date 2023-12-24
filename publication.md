@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Publications
 layout: services
 description: Publications of Qingying Gao (Kaia Gao)
 intro_image: "images/illustrations/reading.svg"
